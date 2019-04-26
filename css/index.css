@@ -144,3 +144,226 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+/* my code starts here*/
+.home-pg-ul{
+  display: flex;
+  flex-direction: row;
+  margin-left: 180px;
+  margin-bottom: 90px;
+  margin-top: -20px;
+  justify-content: space-between;
+}
+li a{
+    text-decoration: none;
+    color: black;
+}
+
+.home-pg-logo{
+margin-top: 25px;
+}
+
+ .boxes .box1{
+    width: 12.5%;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 2.5%;
+    color: white;
+    text-align: center;
+    background: teal;
+
+}
+.home-page-image{
+    margin-top: -30px;
+    margin-bottom: 20px;
+}
+.boxes .box2{
+    width: 12.5%;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 2.5%;
+    color: white;
+    text-align: center;
+    background-color: gold;
+
+}
+.boxes .box3{
+    width: 12.5%;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 2.5%;
+    color: white;
+    text-align: center;
+    background-color: cadetblue;
+
+}
+.boxes .box4{
+    width: 12.5%;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 2.5%;
+    color: white;
+    text-align: center;
+    background-color: coral;
+
+}
+.boxes .box5{
+    width: 12.5%;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 2.5%;
+    color: white;
+    text-align: center;
+    background-color: crimson;
+
+}
+.boxes .box6{
+    width: 12.5%;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 2.5%;
+    color: white;
+    text-align: center;
+    background-color: forestgreen;
+
+}.boxes .box7{
+    width: 12.5%;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 2.5%;
+    color: white;
+    text-align: center;
+    background-color: darkorchid;
+
+}
+
+.boxes .box8{
+    width: 12.5%;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 2.5%;
+    color: white;
+    text-align: center;
+    background-color: hotpink;
+
+}
+.boxes .box9{
+    width: 12.5%;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 2.5%;
+    color: white;
+    text-align: center;
+   background-color: indigo;
+
+}
+
+.boxes .box10{
+    width: 12.5%;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 2.5%;
+    background:dodgerblue;
+    color: white;
+    text-align: center;
+}
+/* end of home page css......*/
+
+/* beginning of about page css..*/
+
+
+.about-pg-ul{
+    display: flex;
+    flex-direction: row;
+    margin-left: 180px;
+    margin-bottom: 90px;
+    margin-top: -20px;
+    justify-content: space-between;
+    
+}
+.first-about-pg-img{
+    margin-bottom: 15px;
+}
+.about-text{
+    display: inline;
+}
+.middle-section-about-pg {
+display: flex;
+flex-direction: column;
+width: 40%;
+}
+
+.about-mid-section1{
+ 
+}
+.about-mid-section2{
+    position: relative;
+    bottom: 482px;
+    left: 400px;
+}
+.about-mid-section3{
+    position: relative;
+    bottom: 400px;
+    left: 400px;
+}
+.about-mid-section4{
+    position: relative;
+    bottom: 838px;
+    right: 5px;
+}
+.borderline1{
+    border: 2px dotted black;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    
+
+}
+.borderline2{
+    border: 2px dotted black;
+    margin: 20px;
+    width: 760px;
+    margin-right: -10px;
+
+}
+.borderline3{
+    border: 2px dotted black;
+    margin-top: -800px;
+    margin-bottom: 70px;
+    
+}
+.about-page-button{
+    margin: 30px;
+    justify-content: center;
+    border-radius: 3px;
+    background: white;
+    padding: 10px;
+
+}
+.footer-about-page{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.bottom-section-in-about-page{
+margin-top: 50px;
+margin-bottom: 50px;
+}
+h3{
+    color: black;
+    font-size: 20px;
+}
+
+
+
+
+
+
